@@ -1,0 +1,907 @@
+*{}
+body{
+    background-image: url('https://img.goodfon.com/original/1366x768/c/1a/green-leaves-minimalism.jpg?d=1');
+background-repeat: no-repeat;
+background-size:125%;
+margin:0%;
+padding-top: -63%;
+
+}
+.eco{
+    
+    background-color: black;
+    padding: 1%;
+
+}
+.eco h1{
+
+    color: white;
+    margin-top: 0px;
+    margin-left: 4%;
+    
+}
+.eco label{
+    color: white;
+    margin-left: 5%;
+    position: relative;
+    left: 42%;
+    font-size: 128%;
+    
+}
+.container{
+    background-color:yellow;
+    padding: 31px;
+    height:340px;
+    width:631px;
+    border-radius: 1px;
+    margin-left: 23%;
+    margin-top: 20%;
+    margin-bottom: 12%;
+    padding-bottom: 5%;
+    opacity:0.1;
+    
+    
+    
+}
+.border{
+    width:94px;
+    height:96px;
+    margin:-21px 00 auto;
+    stroke:none;
+    border-color: white;
+    border-width: 3px;
+    border-style: solid;
+    border-left-style: none;
+    border-bottom-style: none;
+    position:absolute;
+    top:60%;
+    left:68%;
+}
+.border2{
+
+        width:94px;
+        height:96px;
+        margin:-21px 00 auto;
+        stroke:none;
+        border-color: white;
+        border-width: 3px;
+        border-style: solid;
+        border-left-style: none;
+        border-bottom-style: none;
+        position:absolute;
+        top:110%;
+        left:24%;
+        rotate: 180deg;
+}
+.text label{
+    color:white;
+    text-align: center;
+    font-size: 20px;
+    position: absolute;
+    top: 67%;
+    left: 38%;
+    
+
+}
+.text h1{
+    color:white;
+    position: absolute;
+    top: 65%;
+    left: 35%;
+    font-size: 450%;
+
+    
+}
+.text h2{
+    color: white;
+    position: absolute;
+    top: 75%;
+    left: 43%;
+    font-size: 450%;
+}
+.but button{
+     background-color: rgb(53, 246, 53); 
+    color:white;
+    word-spacing: 1%;
+    position: absolute;
+    top:100%;
+    left: 43%;
+    padding-block: 1%;
+    border-top: none;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    width:13% ;
+}
+
+
+button {
+    appearance: auto;
+
+}
+
+  .page2 img{
+    background-color: white;
+    background-color: white;
+    position: absolute;
+    top: 153%;
+    left: 10%;
+    margin: -2%;
+    box-shadow: 1%;
+    box-shadow: 10px 10px 10px rgb(0,0,0,0,6);
+    
+    
+ } 
+ .text2{
+    position: absolute;
+    left: 60%;
+    top: 153%;
+    font-size: 125%;
+    
+    
+ }
+ .subtext p{
+    margin-left: 60%;
+    position: absolute;
+    top: 173%;
+    font-size: 120%;
+ }
+ .image2 img{
+    position: absolute;
+    top: 135%;
+    box-shadow: 10px;
+    margin:28%;
+    padding: 5%;
+    width:41%;
+
+ }
+ .text3 {
+    color:black;
+     opacity:0.1; 
+    font-size: 570%;
+    position: absolute;
+    top:193%;
+    left:8%;
+    
+ }
+ .text4 label{
+font-size:200%;
+position: absolute;
+top:220%;
+left:10%;
+ }
+.text5 {
+    background-color: yellow;
+    width: 16%;
+    margin: 5%;
+     position: absolute;
+     top:195%;
+     left:57%;
+     width:25%;
+     
+     padding-left: 4%;
+     padding-bottom: 5%;
+     background-color: aliceblue;
+
+}
+.text5 p{
+    font-size: 250%;
+    font-style:initial;
+}
+.text5 label{
+    font-style: italic;
+    font-size: 115%;
+    
+}
+.image3 img{
+    
+    width:29%;
+    padding-bottom:20%;
+    height:450px;
+    margin-left: 62%;
+    position: absolute;
+    top:1612px;
+    /* box-shadow: 0 40px 80px 0 rgba(30,30,28,0,9); */
+     /* box-shadow: 10px 10px 5px 12px rgb(15, 15, 15); */
+}
+.text6{
+    
+    margin-top: 60%;
+    margin-left: 10%;
+    font-size: 250%;
+    font-style: initial;
+    color: black;
+}
+.line2 .new{
+    position: absolute;
+    height: 3px;
+    width: 60px;
+    background-color:greenyellow;
+    margin-left: 10%;
+} 
+
+.line1 .new1{
+    position: absolute;
+    top:173%;
+    height: 4px;
+    width: 60px;
+    background-color:greenyellow;
+    margin-left: 60%;
+} 
+ .line3 .new3{
+    position: absolute;
+    top:220%;
+    height: 4px;
+    width: 60px;
+    background-color:greenyellow;
+    margin-left: 66%;
+}
+
+.image4 img{
+    width:33%;
+    margin-left: 45%;
+    margin-bottom: 20%;
+margin-top: -10%;
+    
+}
+.subtext2 p{
+    margin-left: 10%;
+    font-size: 125%;
+    font-style:var();
+    color:rgb(73, 67, 67);
+    
+    
+    
+}
+.container2{
+    background-color:rgb(230, 226, 226);
+    height: 394px;
+    width: 425px;
+    margin-left: 55%;
+    margin-top: -60%;
+}
+.image5 img{
+margin-top: 29%;
+width:110%;
+height: 828px;
+}
+.page3 {
+    background-color:white;
+    width:18%;
+    margin-left: 6%;
+    padding: 5%;
+    height: 36%;
+    position: absolute;
+    top:391%;
+    opacity: 0.1;
+    
+}
+ .one label{
+    font-size: 170%;
+    position: absolute;
+    left:16%;
+    top:395%;
+    
+}
+ .one h1{
+    font-size: 558%;
+    position: absolute;
+    top:383%;
+    left:10%;
+    color:#346473;
+    
+}
+.one p{
+    position: absolute;
+    top:410%;
+    left:8%;
+    font-size: 114%;
+    font-style:var();
+    color:rgb(73, 67, 67);
+    word-spacing: 6px;
+}  
+.one h2{
+    position: absolute;
+    top:434%;
+    left:9%;
+}
+.line4 .new4{
+    position: absolute;
+    top:442%;
+    height: 4px;
+    width: 50px;
+    background-color:#346473;
+    
+    margin-left: 9%;
+}
+.page4 {
+    background-color:white;
+    width:18%;
+    margin-left: 35%;
+    padding: 5%;
+    height: 36%;
+    position: absolute;
+    top:391%;
+    opacity: 0.1;
+    
+}
+.two label{
+    font-size: 170%;
+    position: absolute;
+    left:46%;
+    top:395%;
+    
+}
+.two h1{
+    font-size: 558%;
+    position: absolute;
+    top:383%;
+    left:40%;
+    color:#346473;
+    
+}
+.two p{
+    position: absolute;
+    top:410%;
+    left:37%;
+    font-size: 114%;
+    font-style:var();
+    color:rgb(73, 67, 67);
+    word-spacing: 5px;
+    line-break: 1%;
+}
+.two h2{
+    position: absolute;
+    top:434%;
+    left:38%;
+}
+.line5 .new5{
+    position: absolute;
+    top:442%;
+    height: 4px;
+    width: 50px;
+    background-color:#346473;
+    
+    margin-left: 38%;
+}
+.page5 {
+    background-color:white;
+    width:18%;
+    margin-left: 64%;
+    padding: 5%;
+    height: 36%;
+    position: absolute;
+    top:391%;
+    opacity: 0.1;
+    
+}
+.three label{
+    font-size: 170%;
+    position: absolute;
+    left:75%;
+    top:395%;
+    
+}
+.three h1{
+    font-size: 558%;
+    position: absolute;
+    top:383%;
+    left:69%;
+    color:#346473;
+    
+}
+.three p{
+    position: absolute;
+    top:410%;
+    left:67%;
+    font-size: 114%;
+    font-style:var();
+    color:rgb(73, 67, 67);
+    word-spacing: 5px;
+    line-break: 1%;
+}
+
+.three h2{
+    position: absolute;
+    top:434%;
+    left:67%;
+}
+.line6 .new6{
+    position: absolute;
+    top:442%;
+    height: 4px;
+    width: 50px;
+    background-color:#346473;
+    
+    margin-left:67%;
+}
+.page6 {
+    background-color:white;
+    width:18%;
+    margin-left: 6%;
+    padding: 5%;
+    height: 36%;
+    position: absolute;
+    top:450%;
+    left:60%;
+    opacity:0.1;
+    
+}
+.four label{
+    font-size: 170%;
+    position: absolute;
+    left:17%;
+    top:455%;
+    
+}
+.four h1{
+    font-size: 558%;
+    position: absolute;
+    top:444%;
+    left:10%;
+    color:#346473;
+    
+}
+.four p{
+    position: absolute;
+    top:470%;
+    left:9%;
+    font-size: 114%;
+    font-style:var();
+    color:rgb(17, 15, 15);
+    word-spacing: 5px;
+    line-break: 1%;
+}
+
+.four h2{
+    position: absolute;
+    top:495%;
+    left:10%;
+}
+.line7 .new7{
+    position: absolute;
+    top:503%;
+    height: 4px;
+    width: 50px;
+    background-color:#346473;
+    
+    margin-left:10%;
+}
+
+
+.page7 {
+    background-color:white;
+    width:18%;
+    margin-left: 6%;
+    padding: 5%;
+    height: 36%;
+    position: absolute;
+    top:450%;
+    opacity:0.1;
+    
+}
+.five label{
+    font-size: 170%;
+    position: absolute;
+    left:46%;
+    top:455%;
+    
+}
+.five h1{
+    font-size: 558%;
+    position: absolute;
+    top:444%;
+    left:40%;
+    color:#346473;
+    
+}
+.five p{
+    position: absolute;
+    top:470%;
+    left:37%;
+    font-size: 114%;
+    font-style:var();
+    color:rgb(17, 15, 15);
+    word-spacing: 5px;
+    line-break: 1%;
+}
+
+.five h2{
+    position: absolute;
+    top:495%;
+    left:39%;
+}
+.line8 .new8{
+    position: absolute;
+    top:503%;
+    height: 4px;
+    width: 50px;
+    background-color:#346473;
+    
+    margin-left:39%;
+}
+
+
+.page8 {
+    background-color:white;
+    width:18%;
+    margin-left: 6%;
+    padding: 5%;
+    height: 36%;
+    position: absolute;
+    top:450%;
+    left:30%;
+    opacity:0.1;
+    
+}
+.six label{
+    font-size: 170%;
+    position: absolute;
+    left:75%;
+    top:455%;
+    
+}
+.six h1{
+    font-size: 558%;
+    position: absolute;
+    top:444%;
+    left:70%;
+    color:#346473;
+    
+}
+.six p{
+    position: absolute;
+    top:470%;
+    left:70%;
+    font-size: 114%;
+    font-style:var();
+    color:rgb(17, 15, 15);
+    word-spacing: 5px;
+    line-break: 1%;
+}
+
+.six h2{
+    position: absolute;
+    top:495%;
+    left:70%;
+}
+.line9 .new9{
+    position: absolute;
+    top:503%;
+    height: 4px;
+    width: 50px;
+    background-color:#346473;
+    
+    margin-left:70%;
+}
+.current{
+    font-size: 255%;
+    margin-left: 38%;
+    margin-top: 8%;
+}
+.line10 .new10{
+    position: absolute;
+    top:545%;
+    height: 2px;
+    width: 120px;
+    background-color:#0eed4a;
+    
+    margin-left:44%;
+}
+
+.currenttext{
+    font-size: 125%;
+    margin-left: 25%;
+}
+.currenttext label{
+margin-left: 10%;
+}
+.subimg1 img{
+    width:20%;
+    height:420px;
+    margin-top: 3%;
+    margin-left: 8%;
+}
+.subimg2 img{
+    width:20%;
+    height:420px;
+    position: absolute;
+    top:563%;
+    margin-left: 30%;
+}
+.subimg3 img{
+    width:20%;
+    height:420px;
+    position: absolute;
+    top:563%;
+    margin-left: 52%;
+}
+.subimg4 img{
+    width:20%;
+    height:420px;
+    position: absolute;
+    top:563%;
+    margin-left: 74%;
+}
+.subimgtext label {
+    background-color: white;
+    margin:10%;
+    padding: 1%;
+    letter-spacing: 1px;
+    position: absolute;
+    top:570%;
+    width: 15%;
+    text-align: center;
+}
+.subimgtext p {
+    background-color: white;
+    margin:10%;
+    padding: 1%;
+    letter-spacing: 1px;
+    position: absolute;
+    top:570%;
+    left:22%;
+    width: 15%;
+    text-align: center;
+}
+.subimgtext1 label{
+    background-color: white;
+    margin:10%;
+    padding: 1%;
+    letter-spacing: 1px;
+    position: absolute;
+    top:570%;
+    left:44%;
+    width: 15%;
+    text-align: center;
+}
+.subimgtext1 p{
+    background-color: white;
+    margin:10%;
+    padding: 1%;
+    letter-spacing: 1px;
+    position: absolute;
+    top:570%;
+    left:66%;
+    width: 15%;
+    text-align: center;
+}
+.but1 button{
+    border-color: black;
+    background-color: white;
+    border: 1%;
+    padding:1%;
+    width: 16%;
+    height: 1%;
+    margin-top: 5%;
+    margin-left: 39%;
+    letter-spacing: 1px;
+}
+.save{
+    font-size: 250%;
+    margin-left: 37%;
+    position: absolute;
+    top:670%;
+}
+
+.saveimg img{
+    width:250%;
+    height:1200px;
+    opacity: 0.1;
+}
+.line11 .new11{
+    position: absolute;
+    top:670%;
+    height: 2px;
+    width: 120px;
+    background-color:#ed0e33;
+    
+    margin-left:411%;
+}
+.savetext label{
+    position: absolute;
+    top:685%;
+    left:20%;
+    font-size: 125%;
+}
+.savetext p{
+    position: absolute;
+    top:687%;
+    left:34%;
+    font-size: 120%;
+}
+.saveimg2 img{
+    width:53%;
+    height:600px;
+    position: absolute;
+    left:40%;
+    top:700%;
+}
+.saveimg3 img{
+    width:35%;
+    position: absolute;
+    top:770%;
+    left:10%;
+}
+.saveimg3 h1{
+    position: absolute;
+    top: 773%;
+    left:15%;
+    color: white;
+}
+.saveimg3 p{
+    position: absolute;
+    top: 785%;
+    left:12%;
+    color: white;
+    font-size: 120%;
+}
+.saveimg3 label{
+    position: absolute;
+    top: 810%;
+    left:12%;
+    color: white;
+    font-size: 130%;
+}
+.savetext3 h1{
+    position: absolute;
+    top: 708%;
+    left:12%;
+    color:black;
+    
+}
+.savetext3 p{
+    position: absolute;
+    top: 743%;
+    left:12%;
+    color:black;
+    font-size: 150%;
+    
+}
+.with{
+    background-color: white;
+    padding: 5%;
+    width: 20%;
+    position: absolute;
+    left: 60%;
+    top:780%;
+    letter-spacing: 1px;
+    font-size:normal;
+
+}
+.with label{
+    position: absolute;
+    left: 16%;
+    top:15%;
+    font-size: 170%;
+}
+.save2{
+font-size: 250%;
+margin-left: 37%;
+position: absolute;
+margin-top: 6%;
+}
+.colorline .colornew{
+    position: absolute;
+    top:858%;
+    height: 2px;
+    width: 100px;
+    background-color:#3afb84;
+    margin-left: 44%;
+   
+}
+.save2text p{
+    margin-top: 15%;
+    margin-left: 24%;
+    font-size:110%;
+}
+.save2text label{
+    margin-top: 15%;
+    margin-left: 38%;
+    font-size:110%;
+}
+.icon1 img{
+    width:10%;
+    margin-top: 10%;
+    margin-left:15% ;
+}
+.icon1 p{
+    font-size: 150%;
+    margin-left: 15%;
+}
+.icon2 img{
+    width:6%;
+    position: absolute;
+    top:897%;
+    left:40%;
+    
+}
+.icon2 p{
+    font-size: 150%;
+    margin-left: 30%;
+    position: absolute;
+    top:915%;
+    left: 8%;
+}
+.icon3 img{
+    width:10%;
+    position: absolute;
+    top:893%;
+    left:58%;
+    
+}
+.icon3 p{
+    font-size: 150%;
+    margin-left: 30%;
+    position: absolute;
+    top:915%;
+    left: 27%;
+}
+.icon4 img{
+    width:7%;
+    position: absolute;
+    top:895%;
+    left:77%;
+    
+}
+.icon4 p{
+    font-size: 150%;
+    margin-left: 30%;
+    position: absolute;
+    top:915%;
+    left: 47%;
+}
+.lasttext p{
+    /* margin-left: 35%; */
+    margin-top: 10%;
+    color: white;
+    background-color: black;
+    padding-bottom: 20%;
+    padding-top: 7%;
+    text-align: center;
+    font-size: 120%;
+}
+.lastline h1{
+   position: absolute;
+   top: 970%;
+   left:8%;
+   color:white;
+
+}
+.lasticon1 i{
+    font-size: 140%;
+    position: absolute;
+    top:985%;
+    left: 40%;
+    color: white;
+}
+.lasticon2 i{
+    font-size: 140%;
+    position: absolute;
+    top:985%;
+    left: 43%;
+    color: white;
+}
+.lasticon3 i{
+    font-size: 140%;
+    position: absolute;
+    top:985%;
+    left: 46%;
+    color: white;
+}
+.lasticon4 i{
+    font-size: 140%;
+    position: absolute;
+    top:985%;
+    left: 49%;
+    color: white;
+}
+.web p{
+    color:rgb(108, 108, 51);
+    position: absolute;
+    top:995%;
+    background-color:rgb(73, 49, 49) ;
+    padding: 2%;
+    width: 97%;
+    text-align: center;
+}
